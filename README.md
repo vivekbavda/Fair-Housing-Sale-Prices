@@ -5,10 +5,10 @@
 ## Due August 9, 2021 at 9:00am
 
 
-## [Problem Statement](https://git.generalassemb.ly/vivekbavda/project_2#problem-statement)
-## [Table of Contents in the Repository](https://git.generalassemb.ly/vivekbavda/project_2#table-of-contents-in-the-repository)
+## [Problem Statement](hhttps://git.generalassemb.ly/vivekbavda/project_2#problem-statement-1)
+## [Table of Contents in the Repository](https://git.generalassemb.ly/vivekbavda/project_2#table-of-contents-in-the-repository-1)
 
-## [Analysis and Conclusions](https://git.generalassemb.ly/vivekbavda/project_2#analysis-and-conclusions)
+## [Analysis and Conclusions](https://git.generalassemb.ly/vivekbavda/project_2#analysis-and-conclusions-1)
 ### [Problem Statement](https://git.generalassemb.ly/vivekbavda/project_2#problem-statement)
 
 As you are aware, Ms. Mayor of Ames, Iowa, there have been concerns about redlining, restrictive covenants, and discrimination by homesellers in our city toward traditionally disadvantaged groups in our country. Given the uproar and your desire to integrate the community, you've asked me to provide a gender and color neutral model of housing prices to determine if there has been a premium required for people of color on homes bought in Ames, Iowa.
