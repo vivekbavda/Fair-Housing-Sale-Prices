@@ -5,7 +5,7 @@
 ## Due August 9, 2021 at 9:00am
 
 
-## [Problem Statement](hhttps://git.generalassemb.ly/vivekbavda/project_2#problem-statement-1)
+## [Problem Statement](https://git.generalassemb.ly/vivekbavda/project_2#problem-statement-1)
 ## [Table of Contents in the Repository](https://git.generalassemb.ly/vivekbavda/project_2#table-of-contents-in-the-repository-1)
 
 ## [Analysis and Conclusions](https://git.generalassemb.ly/vivekbavda/project_2#analysis-and-conclusions-1)
