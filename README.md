@@ -1,7 +1,5 @@
 # Vivek Bavda 
 
-# DSIR 7/12
-
 ## Fair Housing: Predicting Sale Prices in Ames, IA .
 
 ## Due August 9, 2021 at 9:00am
@@ -11,7 +9,7 @@
 ## [Table of Contents in the Repository](https://git.generalassemb.ly/vivekbavda/project_2#table-of-contents-in-the-repository)
 
 ## [Analysis and Conclusions](https://git.generalassemb.ly/vivekbavda/project_2#analysis-and-conclusions)
-## [Problem Statement](https://git.generalassemb.ly/vivekbavda/project_2#problem-statement)
+### [Problem Statement](https://git.generalassemb.ly/vivekbavda/project_2#problem-statement)
 
 As you are aware, Ms. Mayor of Ames, Iowa, there have been concerns about redlining, restrictive covenants, and discrimination by homesellers in our city toward traditionally disadvantaged groups in our country. Given the uproar and your desire to integrate the community, you've asked me to provide a gender and color neutral model of housing prices to determine if there has been a premium required for people of color on homes bought in Ames, Iowa.
 
@@ -19,7 +17,7 @@ As you are aware, Ms. Mayor of Ames, Iowa, there have been concerns about redlin
 Recommendation: Use the Ordinary Multivariate Linear Regression model to predict prices and determine if there is a premium for traditionally disadvantage. The model should be used to identify hosts of transactions and to deal with individual cases.
 
 
-## [Table of Contents in the Repository](https://git.generalassemb.ly/vivekbavda/project_2#table-of-contents-in-the-repository)
+### [Table of Contents in the Repository](https://git.generalassemb.ly/vivekbavda/project_2#table-of-contents-in-the-repository)
 
 A Jupyter Notebook [VivekBavdaProject2AmesHousingAnalysis.ipynb](/VivekBavdaProject2AmesHousingAnalysis.ipynb) showing the detailed calculations and analysis.
 
@@ -40,7 +38,7 @@ And this Readme.md
 
 
 
-## Analysis and Conclusions](https://git.generalassemb.ly/vivekbavda/project_2#analysis-and-conclusions)
+### [Analysis and Conclusions](https://git.generalassemb.ly/vivekbavda/project_2#analysis-and-conclusions)
 
 
 As the introduction explains, the Mayor has hired Bavda Consulting to develop a model that predicts prices on home sales in Ames, Iowa. The purpose of this model is to help the Mayor identify and root out discrimination in housing. The model will serve as a benchmark as a predictor based on non-discriminatory factors such as square feet, the age of the home, the amount of Garage are, etc. This will demonstrate if traditionally disadvantaged communities are paying a premium on housing in Ames. 
