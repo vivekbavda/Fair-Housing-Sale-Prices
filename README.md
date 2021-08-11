@@ -19,20 +19,20 @@ Recommendation: Use the Ordinary Multivariate Linear Regression model to predict
 
 ### [Table of Contents in the Repository](https://git.generalassemb.ly/vivekbavda/project_2#table-of-contents-in-the-repository)
 
-A Jupyter Notebook [VivekBavdaProject2AmesHousingAnalysis.ipynb](/VivekBavdaProject2AmesHousingAnalysis.ipynb) showing the detailed calculations and analysis.
+A Jupyter Notebook [VivekBavdaProject2AmesHousingAnalysis.ipynb](VivekBavdaProject2AmesHousingAnalysis.ipynb) showing the detailed calculations and analysis.
 
-The Data Dictionary can be accessed within this repository [*here*](./datasets/AmesDataDictionary.docx).
+The Data Dictionary can be accessed within this repository [*here*](datasets/AmesDataDictionary.docx).
 
-* [AmesDatasetTrain]('./datasets/train.csv'): Data set contains information from the Ames, Iowa Assessor’s Office used in computing assessed values for individual residential properties sold in Ames, IA from 2006 to 2010. This dataset has been divided into this train set and validation set by the Mayor for Bavda Consulting to use to create its model. T The data has 81 columns which include 22 nominal, 23 ordinal, 14 discrete, and 20 continuous variables (and 2 additional observation identifiers). 
+* [AmesDatasetTrain](datasets/train.csv): Data set contains information from the Ames, Iowa Assessor’s Office used in computing assessed values for individual residential properties sold in Ames, IA from 2006 to 2010. This dataset has been divided into this train set and validation set by the Mayor for Bavda Consulting to use to create its model. T The data has 81 columns which include 22 nominal, 23 ordinal, 14 discrete, and 20 continuous variables (and 2 additional observation identifiers). 
 
 
-* [AmesDatasetTest](./datasets/test.csv):Data set contains information from the Ames, Iowa Assessor’s Office used in computing assessed values for individual residential properties sold in Ames, IA from 2006 to 2010. This dataset has been divided into a train set (above) and a validation set. This validation set includes 80 of 81 columns which include 22 nominal, 23 ordinal, 14 discrete, and 19 continuous variables (and 2 additional observation identifiers). The missing column is Sale Price in this dataset. This data is to be filled by Bavda Consulting using the 81 columns. This ensures and checks that the model developed by Bavda Consulting accurately predicts the price.
+* [AmesDatasetTest](datasets/test.csv):Data set contains information from the Ames, Iowa Assessor’s Office used in computing assessed values for individual residential properties sold in Ames, IA from 2006 to 2010. This dataset has been divided into a train set (above) and a validation set. This validation set includes 80 of 81 columns which include 22 nominal, 23 ordinal, 14 discrete, and 19 continuous variables (and 2 additional observation identifiers). The missing column is Sale Price in this dataset. This data is to be filled by Bavda Consulting using the 81 columns. This ensures and checks that the model developed by Bavda Consulting accurately predicts the price.
     
     
-* [AmesDatasetKagle]('./datasets/BavdaFinal.csv'): Data set contains the predictions for the validation set. This dataset has been submitted to the Mayor alongside with this report and model.
+* [AmesDatasetKagle](datasets/BavdaFinal.csv): Data set contains the predictions for the validation set. This dataset has been submitted to the Mayor alongside with this report and model.
 
 
-Presentation slides can be found [*here*]('/BavdaHomePricesAmesSlides.pdf)
+Presentation slides can be found [*here*]('BavdaHomePricesAmesSlides.pdf)
 
 And this Readme.md
 
